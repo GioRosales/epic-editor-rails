@@ -14,5 +14,5 @@ Gem::Specification.new do |gem|
   gem.require_paths = ["lib"]
   gem.version       = Epic::Editor::Rails::VERSION
 
-  gem.add_dependency "railties", ">= 3.2", "< 5.0"
+  gem.add_dependency "railties", ">= 3.2"
 end
