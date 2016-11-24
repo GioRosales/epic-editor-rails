@@ -1,4 +1,8 @@
-### Note: This gem is currently un-maintained. If you would like to help keep it current or take ownership, please contact me @zethussuen
+### Note: This gem is currently un-maintained. If you would like to help keep it current or take ownership, please contact with @zethussuen
+
+## Author: [@zethussuen](https://github.com/zethussuen/epic-editor-rails)
+
+#### Working on rails 5.0.0.1
 
 epic-editor-rails v0.2.4
 =================
